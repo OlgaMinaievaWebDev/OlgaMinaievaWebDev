@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Coffee Shop Website**
+- 🔭 I’m currently working on **Donut Shop Website**
 
 - 🌱 I’m currently learning **React, Redux,  TypeScript**
 
