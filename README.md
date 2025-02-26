@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Donut Shop Website**
+- 🔭 I’m currently working on **Mobile Task Manager**
 
-- 🌱 I’m currently learning **React, Redux,  TypeScript**
+- 🌱 I’m currently learning **React, Redux and TypeScript**
 
 - 👯 I’m looking to collaborate on **any React project**
 
