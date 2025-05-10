@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Task Manager**
 
-- 🌱 I’m currently learning **React, Redux and TypeScript**
+- 🌱 I’m currently learning **Redux and TypeScript**
 
 - 👯 I’m looking to collaborate on **any React project**
 
