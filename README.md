@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Mobile Task Manager**
+- 🔭 I’m currently working on **Frontend Mentor Challenges**
 
-- 🌱 I’m currently learning **Redux and TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **any React project**
 
