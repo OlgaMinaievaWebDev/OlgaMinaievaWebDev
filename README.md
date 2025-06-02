@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Olga Minaieva</h1>
 <h3 align="center">🚀 Self-Taught Web Developer | Passionate about Javascript, React, and building applications</h3>
 
-[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=olgaminaievawebdev.profileviews&left_color=blue&right_color=red)](https://github.com/olgaminaievawebdev)
+<img src="https://komarev.com/ghpvc/?username=olgaminaievawebdev&label=Profile+Views&color=blue&style=flat-square" alt="olgaminaievawebdev" />
 
 
 
