@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Olga Minaieva</h1>
 <h3 align="center">🚀 Self-Taught Web Developer | Passionate about Javascript, React, and building applications</h3>
 
-[![HitCount](https://hits.dwyl.com/olgaminaievawebdev.svg?style=flat&show=unique)](https://hits.dwyl.com/olgaminaievawebdev)
+(https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Folgaminaievawebdev)
 
 
 
