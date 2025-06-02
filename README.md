@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Olga Minaieva</h1>
 <h3 align="center">🚀 Self-Taught Web Developer | Passionate about Javascript, React, and building applications</h3>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Folgaminaievawebdev&label=PROFILE%20VIEWS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Folgaminaievawebdev)
-
 
 
 - 🔭 I’m currently working on **Frontend Mentor Challenges**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **any React project**
+- 👯 I’m looking to collaborate on **interesting React project**
 
 - 👨‍💻 All of my projects are available at [https://olga-minaieva-personal-website.vercel.app/](https://olga-minaieva-personal-website.vercel.app/)
 
