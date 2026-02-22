@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Mentor Challenges**
+- 🔭 I’m currently studing at **RS school**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Jacascript, Typescript**
 
-- 👯 I’m looking to collaborate on **interesting React project**
+- 👯 I’m looking to collaborate on **interesting project**
 
 - 👨‍💻 All of my projects are available at [https://olga-minaieva-personal-website.vercel.app/](https://olga-minaieva-personal-website.vercel.app/)
 
